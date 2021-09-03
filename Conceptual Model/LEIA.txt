@@ -1,0 +1,12 @@
+Conceptual Model
+
+Esta tarefa corresponde a segunda parte do projeto final.
+
+A pasta do Git deve conter os requisitos (que podem - ou devem - ser acertados conforme os comentários realizados) e o 
+modelo conceitual relativo aos requisitos. O modelo deverá ser feito na ferramenta brModelo e deverá ser entregue uma 
+imagem (use a  opção Exportar da ferramenta e escolha PNG).
+
+A correção será feita da seguinte maneira: todas as entidades, relacionamentos e atributos presentes no modelo 
+conceitual deverão estar, de alguma forma, descritos nos requisitos. Se o modelo não representar entidades, atributos ou 
+relacionamentos presentes nos requisitos; ou o modelo apresentar entidades, atributos ou relacionamentos que não estejam 
+descritos no modelo, a nota final do modelo sofrerá descontos.
