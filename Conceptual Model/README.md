@@ -2,4 +2,4 @@
 
 <br>
 
-![Logo do Markdown](Model-conceitual.png)
+![Logo do Markdown](Model-conceitual.PNG)
