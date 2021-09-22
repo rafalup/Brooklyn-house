@@ -9,7 +9,7 @@ We can see the code below the relational model.
 
 To simplify better, we have the graphic part in image to visualize the project as a whole.
 
-![Logo do Markdown](model-relacional.PNG)
+![Logo do Markdown](Model-relacional.PNG)
 
 <br>
 
