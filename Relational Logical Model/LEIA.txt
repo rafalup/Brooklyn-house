@@ -1,6 +1,0 @@
-Esta entrega é referente a terceira parte para o trabalho final. TODOS deverão postar o repositório Git 
-que contém os requisitos (corrigidos ou não), modelo conceitual (corrigido ou não) e o modelo lógico 
-relacional. Esse último deve ser gerado em uma ferramenta gráfica contendo os atributos, seus domínios e 
-restrições (pelo menos, nulidade, chave primária e chave estrangeira).
-
-O nome do txt com o repositório deve obedecer a regra estabelicida anteriormente.
