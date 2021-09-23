@@ -16,9 +16,12 @@ To simplify better, we have the graphic part in image to visualize the project a
 ## references
 
 [Modeling Polymorphic Associations in a Relational Database](https://hashrocket.com/blog/posts/modeling-polymorphic-associations-in-a-relational-database)
+<<<<<<< HEAD
 
 <br>
 
 ## software used for modeling
 
 - dbdesigner 4
+=======
+>>>>>>> 8d7670dc156449bd8ed4186420af8c432b4923eb
