@@ -13,12 +13,7 @@ To simplify better, we have the graphic part in image to visualize the project a
 
 <br>
 
-## references
 
-[Modeling Polymorphic Associations in a Relational Database](https://hashrocket.com/blog/posts/modeling-polymorphic-associations-in-a-relational-database)
-
-
-<br>
 
 ## software used for modeling
 
