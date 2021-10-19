@@ -25,7 +25,6 @@ CREATE TABLE Produto (
   id_produto INTEGER  NOT NULL,
   id_autor INTEGER  NOT NULL,
   Descricao VARCHAR(255) NULL,
-
   constraint pk_produto primary key(id_produto),
   constraint pk_autor foreign key (id_autor) references Autor(id_autor)
 );
@@ -41,22 +40,18 @@ CREATE TABLE Compra (
   Valor_Total VARCHAR  NOT NULL,
 
   constraint pk_compra primary key(id_compra),
-
   constraint fk_cliente foreign key(Cliente_Cpf) references Cliente(cpf),
   constraint fk_produto foreign key(id_produto)references Produto(id_produto)
- 
 );
 
 CREATE TABLE Outlet(
   id_outlet INTEGER  NOT NULL,
- 
   peso  VARCHAR(45) NOT NULL,
   altura VARCHAR(45) NOT NULL,
   Descricao VARCHAR(255) NOT NULL,
 
   constraint pk_outlet primary key(id_outlet),
   constraint fk_produto foreign key(id_outlet)references Produto(id_produto)
-
 );
 
 CREATE TABLE Gibis (
