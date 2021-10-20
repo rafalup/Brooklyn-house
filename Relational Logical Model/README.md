@@ -1,15 +1,9 @@
 # Relational Logical Model
 
-We can see the code below the relational model.
 
-![Logo do Markdown](model-relacional-code.PNG)
+we have the graphic part in image to visualize the relational model.
 
-
-<br>
-
-To simplify better, we have the graphic part in image to visualize the project as a whole.
-
-![Logo do Markdown](Model-relacional.PNG)
+![Logo do Markdown](new-relacional.PNG)
 
 <br>
 
