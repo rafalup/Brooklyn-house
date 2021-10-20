@@ -2,4 +2,4 @@
 
 
 
-![Logo do Markdown](new-conceitual.PNG)
+![Logo do Markdown](imagem-conceitual.PNG)
